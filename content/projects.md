@@ -19,7 +19,7 @@ title: Papers and Projects
   
 ## Programming and Analytics
 
-- [Analyzing Bitcoin vs the S&P 500 and Gold, Visualization](https://lookerstudio.google.com/s/iAj7SFGwMPE)
+- [Assessing the age of the 118th Congress](/PapersProjects/agingCongress.html)
 - [Analyzing Litecoin as a store of Value, Report](/PapersProjects/LTCAnalysis.html)  
 - [Analyzing Poverty in Brazil, Visualization](https://lookerstudio.google.com/reporting/56142d26-54f2-461e-a664-d00cecf36832)
 - [Visualizing Palmer's Penguins](/PapersProjects/PenguinDashboard.html)
