@@ -1,6 +1,6 @@
 ---
 date: "2020-01-01"
-description: A description of the page
+description: Educational Resources
 menu: main
 title: Educational Resources
 ---
