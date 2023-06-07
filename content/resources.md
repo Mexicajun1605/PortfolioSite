@@ -32,6 +32,7 @@ Here, I will be cataloging a variety of useful resources on education, primarily
 
 ### Portuguese
 
+- [Falar...Ler...Escrever...](https://archive.org/details/portuguesfalarle0000unse)
 - [Portuguese by the Natural Method](https://drive.google.com/drive/folders/1POlMIy9RxmhjLV3z7gULj0lNb7BwDkty)
 - [Português para principiantes](https://wisc.pb.unizin.org/portuguese/)
 - [Portuguese, an essential grammar](https://ia904502.us.archive.org/21/items/PortugueseEssentialGrammar/Portuguese%20essential%20grammar.pdf)
