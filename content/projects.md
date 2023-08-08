@@ -16,8 +16,14 @@ title: Papers and Projects
 - [Un estudio piloto del dialecto tradicional de Nuevo México](/PapersProjects/tradNMPilot.pdf)
 - [Critical review, Waltermire, M. (2017). At the dialectal crossroads: the Spanish of Albuquerque, New Mexico. Dialectologia: revista electrònica, (19), 177-197.](/PapersProjects/CritArtReviewLING502.pdf)
 - [Presentation on Seet Theory and Semantic Evolution](/PapersProjects/setSem.pptx)  
-  
-## Programming and Analytics
+
+## Web Development
+
+-[Gloss App(still looking where to deploy this)](https://github.com/Mexicajun1605/glossApp)
+-[Bible Verse Generator](https://mexicajun1605.github.io/BibleVerseGenerator/)
+-[Crypto Prices site](https://mexicajun1605.github.io/CryptoSite/)
+-[Jump Scare site](https://mexicajun1605.github.io/JumpScream/)
+## Data Analytics
 
 - [Assessing the age of the 118th Congress](/PapersProjects/agingCongress.html)
 - [Analyzing Litecoin as a store of Value, Report](/PapersProjects/LTCAnalysis.html)  

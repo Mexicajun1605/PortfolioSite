@@ -44,6 +44,12 @@ Here, I will be cataloging a variety of useful resources on education, primarily
 - [A primer of Medieval Latin](https://archive.org/details/in.ernet.dli.2015.73770)
 - [Wheelock's Latin](https://archive.org/details/wheelockslatin00whee)
 
+### Korean
+- [Storytime Korean](https://www.youtube.com/@storytimeinkorean)
+- [Korean Grammar in use](https://www.academia.edu/31769855/Korean_grammar_in_use_beginner)
+- [Comprehensible Input Korean](https://www.youtube.com/@ComprehensibleInputKorean)
+- [Basic Korean](https://archive.org/details/BasicKoreanAGrammarAndWorkbook)
+
 ### Thai
 
 - [Aakanee.com, (Great selection of simple texts and mp3s, good for LWT or FLTR)](https://www.aakanee.com/main.html)
