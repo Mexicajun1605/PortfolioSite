@@ -19,13 +19,13 @@ title: Papers and Projects
 
 ## Web Development
 
--[Gloss App(still looking where to deploy this)](https://github.com/Mexicajun1605/glossApp) 
+- [Gloss App(still looking where to deploy this)](https://github.com/Mexicajun1605/glossApp) 
 
--[Bible Verse Generator](https://mexicajun1605.github.io/BibleVerseGenerator/) 
+- [Bible Verse Generator](https://mexicajun1605.github.io/BibleVerseGenerator/) 
 
--[Crypto Prices site](https://mexicajun1605.github.io/CryptoSite/) 
+- [Crypto Prices site](https://mexicajun1605.github.io/CryptoSite/) 
 
--[Jump Scare site](https://mexicajun1605.github.io/JumpScream/) 
+- [Jump Scare site](https://mexicajun1605.github.io/JumpScream/) 
 
 ## Data Analytics
 
