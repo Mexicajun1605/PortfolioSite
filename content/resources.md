@@ -65,6 +65,10 @@ Here, I will be cataloging a variety of useful resources on education, primarily
 - [Harvard CS50](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science)
 - [Crash Course Computer Science](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
 
+### Ruby
+- [Head First Ruby, Jay McGavren, Best book for OOP imo](https://archive.org/details/headfirstruby0000mcga)
+- [Learn Ruby on Rails for Web Development](https://codemy.com/books/rails.pdf)
+
 ### Web Development
 
 - [Free Code Camp](www.freecodecamp.org)
