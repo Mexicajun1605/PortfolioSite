@@ -36,8 +36,8 @@ Here, I will be cataloging a variety of useful resources on education, primarily
 - [Portuguese by the Natural Method](https://drive.google.com/drive/folders/1POlMIy9RxmhjLV3z7gULj0lNb7BwDkty)
 - [Português para principiantes](https://wisc.pb.unizin.org/portuguese/)
 - [Portuguese, an essential grammar](https://ia904502.us.archive.org/21/items/PortugueseEssentialGrammar/Portuguese%20essential%20grammar.pdf)
-- [Portuguese with Hadelina](https://www.youtube.com/@Portuguesewithadelina)
-' [Portuguese pronunciation guide](portPronGuide.pdf)
+- [Portuguese with Hadelina](https://www.youtube.com/@Portuguesewithadelina) 
+- [Portuguese pronunciation guide](/portPronGuide.pdf)
 ### Latin
 
 - [Lingua latina per se ilustrata](https://archive.org/details/lingua-latina.-per-se-ilustrata.-pars-i.-familia-romana-hans-henning-orberg)
