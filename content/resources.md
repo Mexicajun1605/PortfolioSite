@@ -50,14 +50,6 @@ Here, I will be cataloging a variety of useful resources on education, primarily
 - [Comprehensible Input Korean](https://www.youtube.com/@ComprehensibleInputKorean)
 - [Basic Korean](https://archive.org/details/BasicKoreanAGrammarAndWorkbook)
 
-### Thai
-
-- [Aakanee.com, (Great selection of simple texts and mp3s, good for LWT or FLTR)](https://www.aakanee.com/main.html)
-- [Thai Notes](https://thai-notes.com/index.html)
-- [Mary Haas, Thai Reader(Currently down, but check later)](http://www.seasite.niu.edu/thai/thaireader/frameset.htm)
-- [Thai, an essential grammar](https://archive.org/details/thai-an-essential-grammar-by-david-smyth)
-
-
 # Programming/Computer Science
 
 ### General Computer Science
