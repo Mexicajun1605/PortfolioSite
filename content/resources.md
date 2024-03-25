@@ -19,6 +19,7 @@ Here, I will be cataloging a variety of useful resources on education, primarily
 
 
 ### Spanish
+- [El español natural, (written by me)](/ElEspañolNaturalV09.pdf)
 - [Poco a poco](https://archive.org/details/pocopocoelementa00hallrich/mode/2up)
 - [Schaum's Spanish Grammar](https://missmallo.weebly.com/uploads/6/7/1/4/6714009/conrad_schmitt_schaums_outline_of_spanish_grammar_5ed_schaums_outline_series__2008.pdf)
 - [Dreaming Spanish](https://www.youtube.com/channel/UCouyFdE9-Lrjo3M_2idKq1A/videos)
