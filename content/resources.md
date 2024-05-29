@@ -45,6 +45,17 @@ Here, I will be cataloging a variety of useful resources on education, primarily
 - [A primer of Medieval Latin](https://archive.org/details/in.ernet.dli.2015.73770)
 - [Wheelock's Latin](https://archive.org/details/wheelockslatin00whee)
 
+### Greek 
+#### Modern 
+- [Easy Greek](https://www.youtube.com/@EasyGreekVideos)
+- [Essential Modern Greek Grammar](https://archive.org/details/essentialmoderng00adam)
+- [Teach yourself Greek](https://archive.org/details/teachyourselfgre0000mats)
+
+#### Koine/Ancient 
+- [Athenaze](https://archive.org/details/balme-maurice-athenaze-1-it-2009)
+- [Learn to read New Testament Greek](https://archive.org/details/learntoreadnewte0000blac/page/n5/mode/2up)
+
+
 ### Korean
 - [Storytime Korean](https://www.youtube.com/@storytimeinkorean)
 - [Korean Grammar in use](https://www.academia.edu/31769855/Korean_grammar_in_use_beginner)

@@ -15,7 +15,7 @@ title: Papers and Projects
   [Visualization/Poster presented for this project at HLS](/PapersProjects/HLSPOSTER.pdf)
 - [Un estudio piloto del dialecto tradicional de Nuevo México](/PapersProjects/tradNMPilot.pdf)
 - [Critical review, Waltermire, M. (2017). At the dialectal crossroads: the Spanish of Albuquerque, New Mexico. Dialectologia: revista electrònica, (19), 177-197.](/PapersProjects/CritArtReviewLING502.pdf)
-- [Presentation on Seet Theory and Semantic Evolution](/PapersProjects/setSem.pptx)  
+- [Presentation on Set Theory and Semantic Evolution](/PapersProjects/setSem.pptx)  
 
 ## Web Development
 
