@@ -50,3 +50,6 @@ menu:
     - name: Blog
       url: https://samlj.netlify.app/
       weight: 7
+    - name: Youtube
+      url: https://www.youtube.com/@SamElLinguista
+      weight: 8
